@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkOpenKruiseGame=self.webpackChunkOpenKruiseGame||[]).push([[7391],{2029:e=>{e.exports=JSON.parse('{"label":"hola","permalink":"/game.openkruise.io/blog/tags/hola","allTagsPath":"/game.openkruise.io/blog/tags","count":1}')}}]);
