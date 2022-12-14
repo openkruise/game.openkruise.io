@@ -1,0 +1,27 @@
+{
+  "unversionedId": "tutorial-examples的副本/create-a-blog-post",
+  "id": "tutorial-examples的副本/create-a-blog-post",
+  "title": "Create a Blog Post",
+  "description": "Docusaurus creates a page for each blog post, but also a blog index page, a tag system, an RSS feed...",
+  "source": "@site/docs/tutorial-examples的副本/create-a-blog-post.md",
+  "sourceDirName": "tutorial-examples的副本",
+  "slug": "/tutorial-examples的副本/create-a-blog-post",
+  "permalink": "/docs/tutorial-examples的副本/create-a-blog-post",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-examples的副本/create-a-blog-post.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Create a Document",
+    "permalink": "/docs/tutorial-examples的副本/create-a-document"
+  },
+  "next": {
+    "title": "Deploy your site",
+    "permalink": "/docs/tutorial-examples的副本/deploy-your-site"
+  }
+}

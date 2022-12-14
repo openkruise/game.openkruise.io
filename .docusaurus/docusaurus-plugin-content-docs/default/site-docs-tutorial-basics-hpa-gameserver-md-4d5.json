@@ -1,0 +1,28 @@
+{
+  "unversionedId": "tutorial-basics/hpa-gameserver",
+  "id": "tutorial-basics/hpa-gameserver",
+  "title": "弹性伸缩游戏服",
+  "description": "OpenKruiseGame的伸缩特性",
+  "source": "@site/docs/tutorial-basics/hpa-gameserver.md",
+  "sourceDirName": "tutorial-basics",
+  "slug": "/tutorial-basics/hpa-gameserver",
+  "permalink": "/docs/tutorial-basics/hpa-gameserver",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/hpa-gameserver.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4,
+    "title": "弹性伸缩游戏服"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "热更新游戏服",
+    "permalink": "/docs/tutorial-basics/update-gameserver"
+  },
+  "next": {
+    "title": "用户手册",
+    "permalink": "/docs/category/用户手册"
+  }
+}

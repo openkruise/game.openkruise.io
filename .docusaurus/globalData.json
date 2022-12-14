@@ -1,0 +1,118 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "intro",
+              "path": "/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/deploy-gameserver",
+              "path": "/docs/tutorial-basics/deploy-gameserver",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/hpa-gameserver",
+              "path": "/docs/tutorial-basics/hpa-gameserver",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/install",
+              "path": "/docs/tutorial-basics/install",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/update-gameserver",
+              "path": "/docs/tutorial-basics/update-gameserver",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-examples/pve",
+              "path": "/docs/tutorial-examples/pve",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-examples/pvp",
+              "path": "/docs/tutorial-examples/pvp",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-extras/concept",
+              "path": "/docs/tutorial-extras/concept",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-extras/network-settings",
+              "path": "/docs/tutorial-extras/network-settings",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-extras/order-settings",
+              "path": "/docs/tutorial-extras/order-settings",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-extras/service-quality",
+              "path": "/docs/tutorial-extras/service-quality",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-extras/update-settings",
+              "path": "/docs/tutorial-extras/update-settings",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-others/contributor",
+              "path": "/docs/tutorial-others/contributor",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-others/faq",
+              "path": "/docs/tutorial-others/faq",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/快速开始",
+              "path": "/docs/category/快速开始",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/用户手册",
+              "path": "/docs/category/用户手册",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/最佳实践",
+              "path": "/docs/category/最佳实践",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/其他",
+              "path": "/docs/category/其他",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/intro",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

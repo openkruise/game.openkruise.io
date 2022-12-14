@@ -1,0 +1,15 @@
+{
+  "title": "用户手册",
+  "slug": "/category/用户手册",
+  "permalink": "/docs/category/用户手册",
+  "navigation": {
+    "previous": {
+      "title": "弹性伸缩游戏服",
+      "permalink": "/docs/tutorial-basics/hpa-gameserver"
+    },
+    "next": {
+      "title": "设计理念与初衷",
+      "permalink": "/docs/tutorial-extras/concept"
+    }
+  }
+}

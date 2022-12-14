@@ -1,0 +1,16 @@
+{
+  "title": "最佳实践",
+  "description": "5 minutes to learn the most important Docusaurus concepts.",
+  "slug": "/category/最佳实践-1",
+  "permalink": "/docs/category/最佳实践-1",
+  "navigation": {
+    "previous": {
+      "title": "Congratulations!",
+      "permalink": "/docs/tutorial-examples/congratulations"
+    },
+    "next": {
+      "title": "Create a Page",
+      "permalink": "/docs/tutorial-examples的副本/create-a-page"
+    }
+  }
+}

@@ -1,0 +1,893 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "label": "Next",
+          "banner": null,
+          "badge": false,
+          "noIndex": false,
+          "className": "docs-version-current",
+          "path": "/docs",
+          "tagsPath": "/docs/tags",
+          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs",
+          "editUrlLocalized": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/i18n/en/docusaurus-plugin-content-docs/current",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "/Users/ringtail/workspace/game.openkruise.io/sidebars.js",
+          "contentPath": "/Users/ringtail/workspace/game.openkruise.io/docs",
+          "contentPathLocalized": "/Users/ringtail/workspace/game.openkruise.io/i18n/en/docusaurus-plugin-content-docs/current",
+          "docs": [
+            {
+              "unversionedId": "intro",
+              "id": "intro",
+              "title": "概述",
+              "description": "OpenKruiseGame（OKG）是一个面向多云的开源游戏服Kubernetes工作负载，是CNCF工作负载开源项目OpenKruise在游戏领域的子项目，让游戏服的云原生化变得更加简单、快速、稳定。",
+              "source": "@site/docs/intro.md",
+              "sourceDirName": ".",
+              "slug": "/intro",
+              "permalink": "/docs/intro",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/intro.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1,
+                "title": "概述"
+              },
+              "sidebar": "tutorialSidebar",
+              "next": {
+                "title": "快速开始",
+                "permalink": "/docs/category/快速开始"
+              }
+            },
+            {
+              "unversionedId": "tutorial-basics/deploy-gameserver",
+              "id": "tutorial-basics/deploy-gameserver",
+              "title": "部署一个游戏服",
+              "description": "您可以使用GameServerSet进行游戏服的部署，一个简单的部署案例如下：",
+              "source": "@site/docs/tutorial-basics/deploy-gameserver.md",
+              "sourceDirName": "tutorial-basics",
+              "slug": "/tutorial-basics/deploy-gameserver",
+              "permalink": "/docs/tutorial-basics/deploy-gameserver",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/deploy-gameserver.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2,
+                "title": "部署一个游戏服"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "安装OpenKruiseGame",
+                "permalink": "/docs/tutorial-basics/install"
+              },
+              "next": {
+                "title": "热更新游戏服",
+                "permalink": "/docs/tutorial-basics/update-gameserver"
+              }
+            },
+            {
+              "unversionedId": "tutorial-basics/hpa-gameserver",
+              "id": "tutorial-basics/hpa-gameserver",
+              "title": "弹性伸缩游戏服",
+              "description": "OpenKruiseGame的伸缩特性",
+              "source": "@site/docs/tutorial-basics/hpa-gameserver.md",
+              "sourceDirName": "tutorial-basics",
+              "slug": "/tutorial-basics/hpa-gameserver",
+              "permalink": "/docs/tutorial-basics/hpa-gameserver",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/hpa-gameserver.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4,
+                "title": "弹性伸缩游戏服"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "热更新游戏服",
+                "permalink": "/docs/tutorial-basics/update-gameserver"
+              },
+              "next": {
+                "title": "用户手册",
+                "permalink": "/docs/category/用户手册"
+              }
+            },
+            {
+              "unversionedId": "tutorial-basics/install",
+              "id": "tutorial-basics/install",
+              "title": "安装OpenKruiseGame",
+              "description": "安装OpenKruiseGame需安装Kruise与Kruise-Game，且要求 Kubernetes版本 >= 1.16",
+              "source": "@site/docs/tutorial-basics/install.md",
+              "sourceDirName": "tutorial-basics",
+              "slug": "/tutorial-basics/install",
+              "permalink": "/docs/tutorial-basics/install",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/install.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1,
+                "title": "安装OpenKruiseGame"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "快速开始",
+                "permalink": "/docs/category/快速开始"
+              },
+              "next": {
+                "title": "部署一个游戏服",
+                "permalink": "/docs/tutorial-basics/deploy-gameserver"
+              }
+            },
+            {
+              "unversionedId": "tutorial-basics/update-gameserver",
+              "id": "tutorial-basics/update-gameserver",
+              "title": "热更新游戏服",
+              "description": "功能概述",
+              "source": "@site/docs/tutorial-basics/update-gameserver.md",
+              "sourceDirName": "tutorial-basics",
+              "slug": "/tutorial-basics/update-gameserver",
+              "permalink": "/docs/tutorial-basics/update-gameserver",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/update-gameserver.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3,
+                "title": "热更新游戏服"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "部署一个游戏服",
+                "permalink": "/docs/tutorial-basics/deploy-gameserver"
+              },
+              "next": {
+                "title": "弹性伸缩游戏服",
+                "permalink": "/docs/tutorial-basics/hpa-gameserver"
+              }
+            },
+            {
+              "unversionedId": "tutorial-examples/pve",
+              "id": "tutorial-examples/pve",
+              "title": "PvE游戏最佳实践",
+              "description": "PvE游戏",
+              "source": "@site/docs/tutorial-examples/pve.md",
+              "sourceDirName": "tutorial-examples",
+              "slug": "/tutorial-examples/pve",
+              "permalink": "/docs/tutorial-examples/pve",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-examples/pve.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2,
+                "title": "PvE游戏最佳实践"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "PvP游戏最佳实践",
+                "permalink": "/docs/tutorial-examples/pvp"
+              },
+              "next": {
+                "title": "其他",
+                "permalink": "/docs/category/其他"
+              }
+            },
+            {
+              "unversionedId": "tutorial-examples/pvp",
+              "id": "tutorial-examples/pvp",
+              "title": "PvP游戏最佳实践",
+              "description": "PvP游戏",
+              "source": "@site/docs/tutorial-examples/pvp.md",
+              "sourceDirName": "tutorial-examples",
+              "slug": "/tutorial-examples/pvp",
+              "permalink": "/docs/tutorial-examples/pvp",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-examples/pvp.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1,
+                "title": "PvP游戏最佳实践"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "最佳实践",
+                "permalink": "/docs/category/最佳实践"
+              },
+              "next": {
+                "title": "PvE游戏最佳实践",
+                "permalink": "/docs/tutorial-examples/pve"
+              }
+            },
+            {
+              "unversionedId": "tutorial-extras/concept",
+              "id": "tutorial-extras/concept",
+              "title": "设计理念与初衷",
+              "description": "开源OpenKruiseGame（OKG)的初衷",
+              "source": "@site/docs/tutorial-extras/concept.md",
+              "sourceDirName": "tutorial-extras",
+              "slug": "/tutorial-extras/concept",
+              "permalink": "/docs/tutorial-extras/concept",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-extras/concept.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 0,
+              "frontMatter": {
+                "sidebar_position": 0,
+                "title": "设计理念与初衷"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "用户手册",
+                "permalink": "/docs/category/用户手册"
+              },
+              "next": {
+                "title": "热更新策略设置",
+                "permalink": "/docs/tutorial-extras/update-settings"
+              }
+            },
+            {
+              "unversionedId": "tutorial-extras/network-settings",
+              "id": "tutorial-extras/network-settings",
+              "title": "网络模型设置",
+              "description": "功能概述",
+              "source": "@site/docs/tutorial-extras/network-settings.md",
+              "sourceDirName": "tutorial-extras",
+              "slug": "/tutorial-extras/network-settings",
+              "permalink": "/docs/tutorial-extras/network-settings",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-extras/network-settings.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3,
+                "title": "网络模型设置"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "启动顺序设置",
+                "permalink": "/docs/tutorial-extras/order-settings"
+              },
+              "next": {
+                "title": "服务质量设置",
+                "permalink": "/docs/tutorial-extras/service-quality"
+              }
+            },
+            {
+              "unversionedId": "tutorial-extras/order-settings",
+              "id": "tutorial-extras/order-settings",
+              "title": "启动顺序设置",
+              "description": "功能概述",
+              "source": "@site/docs/tutorial-extras/order-settings.md",
+              "sourceDirName": "tutorial-extras",
+              "slug": "/tutorial-extras/order-settings",
+              "permalink": "/docs/tutorial-extras/order-settings",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-extras/order-settings.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2,
+                "title": "启动顺序设置"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "热更新策略设置",
+                "permalink": "/docs/tutorial-extras/update-settings"
+              },
+              "next": {
+                "title": "网络模型设置",
+                "permalink": "/docs/tutorial-extras/network-settings"
+              }
+            },
+            {
+              "unversionedId": "tutorial-extras/service-quality",
+              "id": "tutorial-extras/service-quality",
+              "title": "服务质量设置",
+              "description": "功能概述",
+              "source": "@site/docs/tutorial-extras/service-quality.md",
+              "sourceDirName": "tutorial-extras",
+              "slug": "/tutorial-extras/service-quality",
+              "permalink": "/docs/tutorial-extras/service-quality",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-extras/service-quality.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4,
+                "title": "服务质量设置"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "网络模型设置",
+                "permalink": "/docs/tutorial-extras/network-settings"
+              },
+              "next": {
+                "title": "最佳实践",
+                "permalink": "/docs/category/最佳实践"
+              }
+            },
+            {
+              "unversionedId": "tutorial-extras/update-settings",
+              "id": "tutorial-extras/update-settings",
+              "title": "热更新策略设置",
+              "description": "功能概述",
+              "source": "@site/docs/tutorial-extras/update-settings.md",
+              "sourceDirName": "tutorial-extras",
+              "slug": "/tutorial-extras/update-settings",
+              "permalink": "/docs/tutorial-extras/update-settings",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-extras/update-settings.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1,
+                "title": "热更新策略设置"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "设计理念与初衷",
+                "permalink": "/docs/tutorial-extras/concept"
+              },
+              "next": {
+                "title": "启动顺序设置",
+                "permalink": "/docs/tutorial-extras/order-settings"
+              }
+            },
+            {
+              "unversionedId": "tutorial-others/contributor",
+              "id": "tutorial-others/contributor",
+              "title": "如何贡献代码",
+              "description": "贡献OpenKruiseGame",
+              "source": "@site/docs/tutorial-others/contributor.md",
+              "sourceDirName": "tutorial-others",
+              "slug": "/tutorial-others/contributor",
+              "permalink": "/docs/tutorial-others/contributor",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-others/contributor.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1,
+                "title": "如何贡献代码"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "其他",
+                "permalink": "/docs/category/其他"
+              },
+              "next": {
+                "title": "常见问题",
+                "permalink": "/docs/tutorial-others/faq"
+              }
+            },
+            {
+              "unversionedId": "tutorial-others/faq",
+              "id": "tutorial-others/faq",
+              "title": "常见问题",
+              "description": "FAQ",
+              "source": "@site/docs/tutorial-others/faq.md",
+              "sourceDirName": "tutorial-others",
+              "slug": "/tutorial-others/faq",
+              "permalink": "/docs/tutorial-others/faq",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-others/faq.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2,
+                "title": "常见问题"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "如何贡献代码",
+                "permalink": "/docs/tutorial-others/contributor"
+              }
+            }
+          ],
+          "drafts": [],
+          "sidebars": {
+            "tutorialSidebar": [
+              {
+                "type": "doc",
+                "id": "intro"
+              },
+              {
+                "type": "category",
+                "label": "快速开始",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "tutorial-basics/install"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorial-basics/deploy-gameserver"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorial-basics/update-gameserver"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorial-basics/hpa-gameserver"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "description": "5 minutes to learn the most important Docusaurus concepts.",
+                  "slug": "/category/快速开始",
+                  "permalink": "/docs/category/快速开始"
+                }
+              },
+              {
+                "type": "category",
+                "label": "用户手册",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "tutorial-extras/concept"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorial-extras/update-settings"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorial-extras/order-settings"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorial-extras/network-settings"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorial-extras/service-quality"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "slug": "/category/用户手册",
+                  "permalink": "/docs/category/用户手册"
+                }
+              },
+              {
+                "type": "category",
+                "label": "最佳实践",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "tutorial-examples/pvp"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorial-examples/pve"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "description": "5 minutes to learn the most important Docusaurus concepts.",
+                  "slug": "/category/最佳实践",
+                  "permalink": "/docs/category/最佳实践"
+                }
+              },
+              {
+                "type": "category",
+                "label": "其他",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "tutorial-others/contributor"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorial-others/faq"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "description": "5 minutes to learn the most important Docusaurus concepts.",
+                  "slug": "/category/其他",
+                  "permalink": "/docs/category/其他"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-blog": {
+    "default": {
+      "blogSidebarTitle": "Recent posts",
+      "blogPosts": [
+        {
+          "id": "welcome",
+          "metadata": {
+            "permalink": "/blog/welcome",
+            "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2021-08-26-welcome/index.md",
+            "source": "@site/blog/2021-08-26-welcome/index.md",
+            "title": "Welcome",
+            "description": "Docusaurus blogging features are powered by the blog plugin.",
+            "date": "2021-08-26T00:00:00.000Z",
+            "formattedDate": "August 26, 2021",
+            "tags": [
+              {
+                "label": "facebook",
+                "permalink": "/blog/tags/facebook"
+              },
+              {
+                "label": "hello",
+                "permalink": "/blog/tags/hello"
+              },
+              {
+                "label": "docusaurus",
+                "permalink": "/blog/tags/docusaurus"
+              }
+            ],
+            "readingTime": 0.405,
+            "hasTruncateMarker": false,
+            "authors": [
+              {
+                "name": "Sébastien Lorber",
+                "title": "Docusaurus maintainer",
+                "url": "https://sebastienlorber.com",
+                "imageURL": "https://github.com/slorber.png",
+                "key": "slorber"
+              },
+              {
+                "name": "Yangshun Tay",
+                "title": "Front End Engineer @ Facebook",
+                "url": "https://github.com/yangshun",
+                "imageURL": "https://github.com/yangshun.png",
+                "key": "yangshun"
+              }
+            ],
+            "frontMatter": {
+              "slug": "welcome",
+              "title": "Welcome",
+              "authors": [
+                "slorber",
+                "yangshun"
+              ],
+              "tags": [
+                "facebook",
+                "hello",
+                "docusaurus"
+              ]
+            },
+            "nextItem": {
+              "title": "MDX Blog Post",
+              "permalink": "/blog/mdx-blog-post"
+            }
+          },
+          "content": "[Docusaurus blogging features](https://docusaurus.io/docs/blog) are powered by the [blog plugin](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog).\n\nSimply add Markdown files (or folders) to the `blog` directory.\n\nRegular blog authors can be added to `authors.yml`.\n\nThe blog post date can be extracted from filenames, such as:\n\n- `2019-05-30-welcome.md`\n- `2019-05-30-welcome/index.md`\n\nA blog post folder can be convenient to co-locate blog post images:\n\n![Docusaurus Plushie](./docusaurus-plushie-banner.jpeg)\n\nThe blog supports tags as well!\n\n**And if you don't want a blog**: just delete this directory, and use `blog: false` in your Docusaurus config."
+        },
+        {
+          "id": "mdx-blog-post",
+          "metadata": {
+            "permalink": "/blog/mdx-blog-post",
+            "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2021-08-01-mdx-blog-post.mdx",
+            "source": "@site/blog/2021-08-01-mdx-blog-post.mdx",
+            "title": "MDX Blog Post",
+            "description": "Blog posts support Docusaurus Markdown features, such as MDX.",
+            "date": "2021-08-01T00:00:00.000Z",
+            "formattedDate": "August 1, 2021",
+            "tags": [
+              {
+                "label": "docusaurus",
+                "permalink": "/blog/tags/docusaurus"
+              }
+            ],
+            "readingTime": 0.175,
+            "hasTruncateMarker": false,
+            "authors": [
+              {
+                "name": "Sébastien Lorber",
+                "title": "Docusaurus maintainer",
+                "url": "https://sebastienlorber.com",
+                "imageURL": "https://github.com/slorber.png",
+                "key": "slorber"
+              }
+            ],
+            "frontMatter": {
+              "slug": "mdx-blog-post",
+              "title": "MDX Blog Post",
+              "authors": [
+                "slorber"
+              ],
+              "tags": [
+                "docusaurus"
+              ]
+            },
+            "prevItem": {
+              "title": "Welcome",
+              "permalink": "/blog/welcome"
+            },
+            "nextItem": {
+              "title": "Long Blog Post",
+              "permalink": "/blog/long-blog-post"
+            }
+          },
+          "content": "Blog posts support [Docusaurus Markdown features](https://docusaurus.io/docs/markdown-features), such as [MDX](https://mdxjs.com/).\n\n:::tip\n\nUse the power of React to create interactive blog posts.\n\n```js\n<button onClick={() => alert('button clicked!')}>Click me!</button>\n```\n\n<button onClick={() => alert('button clicked!')}>Click me!</button>\n\n:::"
+        },
+        {
+          "id": "long-blog-post",
+          "metadata": {
+            "permalink": "/blog/long-blog-post",
+            "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2019-05-29-long-blog-post.md",
+            "source": "@site/blog/2019-05-29-long-blog-post.md",
+            "title": "Long Blog Post",
+            "description": "This is the summary of a very long blog post,",
+            "date": "2019-05-29T00:00:00.000Z",
+            "formattedDate": "May 29, 2019",
+            "tags": [
+              {
+                "label": "hello",
+                "permalink": "/blog/tags/hello"
+              },
+              {
+                "label": "docusaurus",
+                "permalink": "/blog/tags/docusaurus"
+              }
+            ],
+            "readingTime": 2.05,
+            "hasTruncateMarker": true,
+            "authors": [
+              {
+                "name": "Endilie Yacop Sucipto",
+                "title": "Maintainer of Docusaurus",
+                "url": "https://github.com/endiliey",
+                "imageURL": "https://github.com/endiliey.png",
+                "key": "endi"
+              }
+            ],
+            "frontMatter": {
+              "slug": "long-blog-post",
+              "title": "Long Blog Post",
+              "authors": "endi",
+              "tags": [
+                "hello",
+                "docusaurus"
+              ]
+            },
+            "prevItem": {
+              "title": "MDX Blog Post",
+              "permalink": "/blog/mdx-blog-post"
+            },
+            "nextItem": {
+              "title": "First Blog Post",
+              "permalink": "/blog/first-blog-post"
+            }
+          },
+          "content": "This is the summary of a very long blog post,\n\nUse a `<!--` `truncate` `-->` comment to limit blog post size in the list view.\n\n<!--truncate-->\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet"
+        },
+        {
+          "id": "first-blog-post",
+          "metadata": {
+            "permalink": "/blog/first-blog-post",
+            "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2019-05-28-first-blog-post.md",
+            "source": "@site/blog/2019-05-28-first-blog-post.md",
+            "title": "First Blog Post",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet",
+            "date": "2019-05-28T00:00:00.000Z",
+            "formattedDate": "May 28, 2019",
+            "tags": [
+              {
+                "label": "hola",
+                "permalink": "/blog/tags/hola"
+              },
+              {
+                "label": "docusaurus",
+                "permalink": "/blog/tags/docusaurus"
+              }
+            ],
+            "readingTime": 0.12,
+            "hasTruncateMarker": false,
+            "authors": [
+              {
+                "name": "Gao Wei",
+                "title": "Docusaurus Core Team",
+                "url": "https://github.com/wgao19",
+                "image_url": "https://github.com/wgao19.png",
+                "imageURL": "https://github.com/wgao19.png"
+              }
+            ],
+            "frontMatter": {
+              "slug": "first-blog-post",
+              "title": "First Blog Post",
+              "authors": {
+                "name": "Gao Wei",
+                "title": "Docusaurus Core Team",
+                "url": "https://github.com/wgao19",
+                "image_url": "https://github.com/wgao19.png",
+                "imageURL": "https://github.com/wgao19.png"
+              },
+              "tags": [
+                "hola",
+                "docusaurus"
+              ]
+            },
+            "prevItem": {
+              "title": "Long Blog Post",
+              "permalink": "/blog/long-blog-post"
+            }
+          },
+          "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet"
+        }
+      ],
+      "blogListPaginated": [
+        {
+          "items": [
+            "welcome",
+            "mdx-blog-post",
+            "long-blog-post",
+            "first-blog-post"
+          ],
+          "metadata": {
+            "permalink": "/blog",
+            "page": 1,
+            "postsPerPage": 10,
+            "totalPages": 1,
+            "totalCount": 4,
+            "blogDescription": "Blog",
+            "blogTitle": "Blog"
+          }
+        }
+      ],
+      "blogTags": {
+        "/blog/tags/facebook": {
+          "label": "facebook",
+          "items": [
+            "welcome"
+          ],
+          "permalink": "/blog/tags/facebook",
+          "pages": [
+            {
+              "items": [
+                "welcome"
+              ],
+              "metadata": {
+                "permalink": "/blog/tags/facebook",
+                "page": 1,
+                "postsPerPage": 10,
+                "totalPages": 1,
+                "totalCount": 1,
+                "blogDescription": "Blog",
+                "blogTitle": "Blog"
+              }
+            }
+          ]
+        },
+        "/blog/tags/hello": {
+          "label": "hello",
+          "items": [
+            "welcome",
+            "long-blog-post"
+          ],
+          "permalink": "/blog/tags/hello",
+          "pages": [
+            {
+              "items": [
+                "welcome",
+                "long-blog-post"
+              ],
+              "metadata": {
+                "permalink": "/blog/tags/hello",
+                "page": 1,
+                "postsPerPage": 10,
+                "totalPages": 1,
+                "totalCount": 2,
+                "blogDescription": "Blog",
+                "blogTitle": "Blog"
+              }
+            }
+          ]
+        },
+        "/blog/tags/docusaurus": {
+          "label": "docusaurus",
+          "items": [
+            "welcome",
+            "mdx-blog-post",
+            "long-blog-post",
+            "first-blog-post"
+          ],
+          "permalink": "/blog/tags/docusaurus",
+          "pages": [
+            {
+              "items": [
+                "welcome",
+                "mdx-blog-post",
+                "long-blog-post",
+                "first-blog-post"
+              ],
+              "metadata": {
+                "permalink": "/blog/tags/docusaurus",
+                "page": 1,
+                "postsPerPage": 10,
+                "totalPages": 1,
+                "totalCount": 4,
+                "blogDescription": "Blog",
+                "blogTitle": "Blog"
+              }
+            }
+          ]
+        },
+        "/blog/tags/hola": {
+          "label": "hola",
+          "items": [
+            "first-blog-post"
+          ],
+          "permalink": "/blog/tags/hola",
+          "pages": [
+            {
+              "items": [
+                "first-blog-post"
+              ],
+              "metadata": {
+                "permalink": "/blog/tags/hola",
+                "page": 1,
+                "postsPerPage": 10,
+                "totalPages": 1,
+                "totalCount": 1,
+                "blogDescription": "Blog",
+                "blogTitle": "Blog"
+              }
+            }
+          ]
+        }
+      },
+      "blogTagsListPath": "/blog/tags"
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": [
+      {
+        "type": "jsx",
+        "permalink": "/",
+        "source": "@site/src/pages/index.js"
+      },
+      {
+        "type": "mdx",
+        "permalink": "/markdown-page",
+        "source": "@site/src/pages/markdown-page.md",
+        "title": "Markdown page example",
+        "description": "You don't need React to write simple standalone pages.",
+        "frontMatter": {
+          "title": "Markdown page example"
+        }
+      }
+    ]
+  },
+  "docusaurus-plugin-debug": {},
+  "docusaurus-theme-classic": {},
+  "docusaurus-bootstrap-plugin": {},
+  "docusaurus-mdx-fallback-plugin": {}
+}

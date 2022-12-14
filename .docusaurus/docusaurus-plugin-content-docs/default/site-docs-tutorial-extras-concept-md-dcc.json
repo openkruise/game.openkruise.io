@@ -1,0 +1,28 @@
+{
+  "unversionedId": "tutorial-extras/concept",
+  "id": "tutorial-extras/concept",
+  "title": "设计理念与初衷",
+  "description": "开源OpenKruiseGame（OKG)的初衷",
+  "source": "@site/docs/tutorial-extras/concept.md",
+  "sourceDirName": "tutorial-extras",
+  "slug": "/tutorial-extras/concept",
+  "permalink": "/docs/tutorial-extras/concept",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-extras/concept.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "sidebar_position": 0,
+    "title": "设计理念与初衷"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "用户手册",
+    "permalink": "/docs/category/用户手册"
+  },
+  "next": {
+    "title": "热更新策略设置",
+    "permalink": "/docs/tutorial-extras/update-settings"
+  }
+}

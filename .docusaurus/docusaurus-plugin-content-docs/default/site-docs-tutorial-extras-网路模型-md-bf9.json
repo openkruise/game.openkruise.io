@@ -1,0 +1,20 @@
+{
+  "unversionedId": "tutorial-extras/网路模型",
+  "id": "tutorial-extras/网路模型",
+  "title": "网路模型",
+  "description": "功能概述",
+  "source": "@site/docs/tutorial-extras/网路模型.md",
+  "sourceDirName": "tutorial-extras",
+  "slug": "/tutorial-extras/网路模型",
+  "permalink": "/docs/tutorial-extras/网路模型",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-extras/网路模型.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "update-settings",
+    "permalink": "/docs/tutorial-extras/update-settings"
+  }
+}

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkOpenKruiseGame=self.webpackChunkOpenKruiseGame||[]).push([[4837],{3769:e=>{e.exports=JSON.parse('{"name":"docusaurus-plugin-content-docs","id":"default"}')}}]);

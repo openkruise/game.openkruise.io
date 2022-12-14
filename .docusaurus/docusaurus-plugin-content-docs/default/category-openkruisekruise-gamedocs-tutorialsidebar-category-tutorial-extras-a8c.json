@@ -1,0 +1,15 @@
+{
+  "title": "Tutorial - Extras",
+  "slug": "/category/tutorial---extras",
+  "permalink": "/openkruise/kruise-game/docs/category/tutorial---extras",
+  "navigation": {
+    "previous": {
+      "title": "Congratulations!",
+      "permalink": "/openkruise/kruise-game/docs/tutorial-basics/congratulations"
+    },
+    "next": {
+      "title": "Manage Docs Versions",
+      "permalink": "/openkruise/kruise-game/docs/tutorial-extras/manage-docs-versions"
+    }
+  }
+}

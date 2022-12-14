@@ -1,0 +1,28 @@
+{
+  "unversionedId": "tutorial-basics/update-gameserver",
+  "id": "tutorial-basics/update-gameserver",
+  "title": "热更新游戏服",
+  "description": "功能概述",
+  "source": "@site/docs/tutorial-basics/update-gameserver.md",
+  "sourceDirName": "tutorial-basics",
+  "slug": "/tutorial-basics/update-gameserver",
+  "permalink": "/docs/tutorial-basics/update-gameserver",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/update-gameserver.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "title": "热更新游戏服"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "部署一个游戏服",
+    "permalink": "/docs/tutorial-basics/deploy-gameserver"
+  },
+  "next": {
+    "title": "弹性伸缩游戏服",
+    "permalink": "/docs/tutorial-basics/hpa-gameserver"
+  }
+}

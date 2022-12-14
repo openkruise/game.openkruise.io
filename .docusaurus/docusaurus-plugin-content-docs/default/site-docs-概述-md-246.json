@@ -1,0 +1,23 @@
+{
+  "unversionedId": "概述",
+  "id": "概述",
+  "title": "概述",
+  "description": "OpenKruiseGame（OKG）是一个面向多云的开源游戏服Kubernetes工作负载，是CNCF工作负载开源项目OpenKruise在游戏领域的子项目，让游戏服的云原生化变得更加简单、快速、稳定。",
+  "source": "@site/docs/概述.md",
+  "sourceDirName": ".",
+  "slug": "/概述",
+  "permalink": "/docs/概述",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/概述.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Tutorial - Basics",
+    "permalink": "/docs/category/tutorial---basics"
+  }
+}

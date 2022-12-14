@@ -1,0 +1,28 @@
+{
+  "unversionedId": "tutorial-basics/deploy-game",
+  "id": "tutorial-basics/deploy-game",
+  "title": "部署一个游戏服",
+  "description": "您可以使用GameServerSet进行游戏服的部署，一个简单的部署案例如下：",
+  "source": "@site/docs/tutorial-basics/deploy-game.md",
+  "sourceDirName": "tutorial-basics",
+  "slug": "/tutorial-basics/deploy-game",
+  "permalink": "/docs/tutorial-basics/deploy-game",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/deploy-game.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "部署一个游戏服"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "快速开始",
+    "permalink": "/docs/category/快速开始"
+  },
+  "next": {
+    "title": "安装OpenKruiseGame",
+    "permalink": "/docs/tutorial-basics/install"
+  }
+}
