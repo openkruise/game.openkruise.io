@@ -6,7 +6,7 @@
   "source": "@site/docs/tutorial-basics/update-gameserver.md",
   "sourceDirName": "tutorial-basics",
   "slug": "/tutorial-basics/update-gameserver",
-  "permalink": "/docs/tutorial-basics/update-gameserver",
+  "permalink": "/game.openkruise.io/docs/tutorial-basics/update-gameserver",
   "draft": false,
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/update-gameserver.md",
   "tags": [],
@@ -19,10 +19,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "部署一个游戏服",
-    "permalink": "/docs/tutorial-basics/deploy-gameserver"
+    "permalink": "/game.openkruise.io/docs/tutorial-basics/deploy-gameserver"
   },
   "next": {
     "title": "弹性伸缩游戏服",
-    "permalink": "/docs/tutorial-basics/hpa-gameserver"
+    "permalink": "/game.openkruise.io/docs/tutorial-basics/hpa-gameserver"
   }
 }

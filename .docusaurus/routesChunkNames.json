@@ -1,5 +1,5 @@
 {
-  "/blog-88e": {
+  "/game.openkruise.io/blog-9b5": {
     "__comp": "a6aa9e1f",
     "__context": {
       "plugin": "9c9dd61f"
@@ -19,16 +19,16 @@
         "content": "925b3f96"
       }
     ],
-    "metadata": "b2b675dd"
+    "metadata": "c32b22d3"
   },
-  "/blog/archive-3b0": {
+  "/game.openkruise.io/blog/archive-ac8": {
     "__comp": "9e4087bc",
     "__context": {
       "plugin": "9c9dd61f"
     },
-    "archive": "b2f554cd"
+    "archive": "16a04d51"
   },
-  "/blog/first-blog-post-882": {
+  "/game.openkruise.io/blog/first-blog-post-6f0": {
     "__comp": "ccc49370",
     "__context": {
       "plugin": "9c9dd61f"
@@ -36,7 +36,7 @@
     "sidebar": "814f3328",
     "content": "e273c56f"
   },
-  "/blog/long-blog-post-e5b": {
+  "/game.openkruise.io/blog/long-blog-post-4d2": {
     "__comp": "ccc49370",
     "__context": {
       "plugin": "9c9dd61f"
@@ -44,7 +44,7 @@
     "sidebar": "814f3328",
     "content": "73664a40"
   },
-  "/blog/mdx-blog-post-b11": {
+  "/game.openkruise.io/blog/mdx-blog-post-494": {
     "__comp": "ccc49370",
     "__context": {
       "plugin": "9c9dd61f"
@@ -52,15 +52,15 @@
     "sidebar": "814f3328",
     "content": "59362658"
   },
-  "/blog/tags-cd9": {
+  "/game.openkruise.io/blog/tags-dc3": {
     "__comp": "01a85c17",
     "__context": {
       "plugin": "9c9dd61f"
     },
     "sidebar": "814f3328",
-    "tags": "a7023ddc"
+    "tags": "6b6e8ec3"
   },
-  "/blog/tags/docusaurus-670": {
+  "/game.openkruise.io/blog/tags/docusaurus-c75": {
     "__comp": "6875c492",
     "__context": {
       "plugin": "9c9dd61f"
@@ -80,10 +80,10 @@
         "content": "925b3f96"
       }
     ],
-    "tag": "a80da1cf",
-    "listMetadata": "608ae6a4"
+    "tag": "bcb52151",
+    "listMetadata": "99bc49d9"
   },
-  "/blog/tags/facebook-2ff": {
+  "/game.openkruise.io/blog/tags/facebook-882": {
     "__comp": "6875c492",
     "__context": {
       "plugin": "9c9dd61f"
@@ -94,10 +94,10 @@
         "content": "7661071f"
       }
     ],
-    "tag": "031793e1",
-    "listMetadata": "096bfee4"
+    "tag": "938c2c86",
+    "listMetadata": "9b3e9e96"
   },
-  "/blog/tags/hello-200": {
+  "/game.openkruise.io/blog/tags/hello-e78": {
     "__comp": "6875c492",
     "__context": {
       "plugin": "9c9dd61f"
@@ -111,10 +111,10 @@
         "content": "8717b14a"
       }
     ],
-    "tag": "30a24c52",
-    "listMetadata": "66406991"
+    "tag": "cda2442d",
+    "listMetadata": "f1f14f12"
   },
-  "/blog/tags/hola-77d": {
+  "/game.openkruise.io/blog/tags/hola-e1e": {
     "__comp": "6875c492",
     "__context": {
       "plugin": "9c9dd61f"
@@ -125,10 +125,10 @@
         "content": "925b3f96"
       }
     ],
-    "tag": "e16015ca",
-    "listMetadata": "4c9e35b1"
+    "tag": "6c8861e4",
+    "listMetadata": "aa627f00"
   },
-  "/blog/welcome-ad6": {
+  "/game.openkruise.io/blog/welcome-f32": {
     "__comp": "ccc49370",
     "__context": {
       "plugin": "9c9dd61f"
@@ -136,93 +136,93 @@
     "sidebar": "814f3328",
     "content": "d9f32620"
   },
-  "/markdown-page-366": {
+  "/game.openkruise.io/markdown-page-82e": {
     "__comp": "1f391b9e",
     "__context": {
       "plugin": "5b6493c4"
     },
     "content": "393be207"
   },
-  "/docs-956": {
+  "/game.openkruise.io/docs-494": {
     "__comp": "1be78505",
     "__context": {
       "plugin": "ada5afee"
     },
     "versionMetadata": "935f2afb"
   },
-  "/docs/category/快速开始-a37": {
+  "/game.openkruise.io/docs/category/快速开始-35f": {
     "__comp": "14eb3368",
-    "categoryGeneratedIndex": "1e18f6cb"
+    "categoryGeneratedIndex": "521b28c0"
   },
-  "/docs/category/其他-abb": {
+  "/game.openkruise.io/docs/category/其他-c95": {
     "__comp": "14eb3368",
-    "categoryGeneratedIndex": "f33e1a49"
+    "categoryGeneratedIndex": "2d54cc70"
   },
-  "/docs/category/用户手册-1b7": {
+  "/game.openkruise.io/docs/category/用户手册-0b0": {
     "__comp": "14eb3368",
-    "categoryGeneratedIndex": "9453fc47"
+    "categoryGeneratedIndex": "1250ac30"
   },
-  "/docs/category/最佳实践-f50": {
+  "/game.openkruise.io/docs/category/最佳实践-024": {
     "__comp": "14eb3368",
-    "categoryGeneratedIndex": "7cba536a"
+    "categoryGeneratedIndex": "5784f194"
   },
-  "/docs/intro-aed": {
+  "/game.openkruise.io/docs/intro-cd6": {
     "__comp": "17896441",
     "content": "0e384e19"
   },
-  "/docs/tutorial-basics/deploy-gameserver-0ff": {
+  "/game.openkruise.io/docs/tutorial-basics/deploy-gameserver-7b7": {
     "__comp": "17896441",
     "content": "63d9d6f4"
   },
-  "/docs/tutorial-basics/hpa-gameserver-c8e": {
+  "/game.openkruise.io/docs/tutorial-basics/hpa-gameserver-006": {
     "__comp": "17896441",
     "content": "4d5fa944"
   },
-  "/docs/tutorial-basics/install-b44": {
+  "/game.openkruise.io/docs/tutorial-basics/install-ce8": {
     "__comp": "17896441",
     "content": "92506f84"
   },
-  "/docs/tutorial-basics/update-gameserver-ef0": {
+  "/game.openkruise.io/docs/tutorial-basics/update-gameserver-326": {
     "__comp": "17896441",
     "content": "2dbf67b5"
   },
-  "/docs/tutorial-examples/pve-3ae": {
+  "/game.openkruise.io/docs/tutorial-examples/pve-8b1": {
     "__comp": "17896441",
     "content": "8c3dad59"
   },
-  "/docs/tutorial-examples/pvp-0d6": {
+  "/game.openkruise.io/docs/tutorial-examples/pvp-784": {
     "__comp": "17896441",
     "content": "4b233203"
   },
-  "/docs/tutorial-extras/concept-510": {
+  "/game.openkruise.io/docs/tutorial-extras/concept-5d4": {
     "__comp": "17896441",
     "content": "dccd7ed1"
   },
-  "/docs/tutorial-extras/network-settings-12f": {
+  "/game.openkruise.io/docs/tutorial-extras/network-settings-884": {
     "__comp": "17896441",
     "content": "83c355d5"
   },
-  "/docs/tutorial-extras/order-settings-3ad": {
+  "/game.openkruise.io/docs/tutorial-extras/order-settings-9fe": {
     "__comp": "17896441",
     "content": "fda409d6"
   },
-  "/docs/tutorial-extras/service-quality-c98": {
+  "/game.openkruise.io/docs/tutorial-extras/service-quality-8d8": {
     "__comp": "17896441",
     "content": "4ff733c4"
   },
-  "/docs/tutorial-extras/update-settings-a60": {
+  "/game.openkruise.io/docs/tutorial-extras/update-settings-3a0": {
     "__comp": "17896441",
     "content": "56e708de"
   },
-  "/docs/tutorial-others/contributor-bc7": {
+  "/game.openkruise.io/docs/tutorial-others/contributor-6fd": {
     "__comp": "17896441",
     "content": "0f10d31f"
   },
-  "/docs/tutorial-others/faq-338": {
+  "/game.openkruise.io/docs/tutorial-others/faq-ae8": {
     "__comp": "17896441",
     "content": "376adadc"
   },
-  "/-123": {
+  "/game.openkruise.io/-2b2": {
     "__comp": "c4f5d8e4",
     "__context": {
       "plugin": "5b6493c4"

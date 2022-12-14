@@ -12,7 +12,7 @@
       {
         "type": "link",
         "label": "概述",
-        "href": "/docs/intro",
+        "href": "/game.openkruise.io/docs/intro",
         "docId": "intro"
       },
       {
@@ -24,29 +24,29 @@
           {
             "type": "link",
             "label": "安装OpenKruiseGame",
-            "href": "/docs/tutorial-basics/install",
+            "href": "/game.openkruise.io/docs/tutorial-basics/install",
             "docId": "tutorial-basics/install"
           },
           {
             "type": "link",
             "label": "部署一个游戏服",
-            "href": "/docs/tutorial-basics/deploy-gameserver",
+            "href": "/game.openkruise.io/docs/tutorial-basics/deploy-gameserver",
             "docId": "tutorial-basics/deploy-gameserver"
           },
           {
             "type": "link",
             "label": "热更新游戏服",
-            "href": "/docs/tutorial-basics/update-gameserver",
+            "href": "/game.openkruise.io/docs/tutorial-basics/update-gameserver",
             "docId": "tutorial-basics/update-gameserver"
           },
           {
             "type": "link",
             "label": "弹性伸缩游戏服",
-            "href": "/docs/tutorial-basics/hpa-gameserver",
+            "href": "/game.openkruise.io/docs/tutorial-basics/hpa-gameserver",
             "docId": "tutorial-basics/hpa-gameserver"
           }
         ],
-        "href": "/docs/category/快速开始"
+        "href": "/game.openkruise.io/docs/category/快速开始"
       },
       {
         "type": "category",
@@ -57,35 +57,35 @@
           {
             "type": "link",
             "label": "设计理念与初衷",
-            "href": "/docs/tutorial-extras/concept",
+            "href": "/game.openkruise.io/docs/tutorial-extras/concept",
             "docId": "tutorial-extras/concept"
           },
           {
             "type": "link",
             "label": "热更新策略设置",
-            "href": "/docs/tutorial-extras/update-settings",
+            "href": "/game.openkruise.io/docs/tutorial-extras/update-settings",
             "docId": "tutorial-extras/update-settings"
           },
           {
             "type": "link",
             "label": "启动顺序设置",
-            "href": "/docs/tutorial-extras/order-settings",
+            "href": "/game.openkruise.io/docs/tutorial-extras/order-settings",
             "docId": "tutorial-extras/order-settings"
           },
           {
             "type": "link",
             "label": "网络模型设置",
-            "href": "/docs/tutorial-extras/network-settings",
+            "href": "/game.openkruise.io/docs/tutorial-extras/network-settings",
             "docId": "tutorial-extras/network-settings"
           },
           {
             "type": "link",
             "label": "服务质量设置",
-            "href": "/docs/tutorial-extras/service-quality",
+            "href": "/game.openkruise.io/docs/tutorial-extras/service-quality",
             "docId": "tutorial-extras/service-quality"
           }
         ],
-        "href": "/docs/category/用户手册"
+        "href": "/game.openkruise.io/docs/category/用户手册"
       },
       {
         "type": "category",
@@ -96,17 +96,17 @@
           {
             "type": "link",
             "label": "PvP游戏最佳实践",
-            "href": "/docs/tutorial-examples/pvp",
+            "href": "/game.openkruise.io/docs/tutorial-examples/pvp",
             "docId": "tutorial-examples/pvp"
           },
           {
             "type": "link",
             "label": "PvE游戏最佳实践",
-            "href": "/docs/tutorial-examples/pve",
+            "href": "/game.openkruise.io/docs/tutorial-examples/pve",
             "docId": "tutorial-examples/pve"
           }
         ],
-        "href": "/docs/category/最佳实践"
+        "href": "/game.openkruise.io/docs/category/最佳实践"
       },
       {
         "type": "category",
@@ -117,17 +117,17 @@
           {
             "type": "link",
             "label": "如何贡献代码",
-            "href": "/docs/tutorial-others/contributor",
+            "href": "/game.openkruise.io/docs/tutorial-others/contributor",
             "docId": "tutorial-others/contributor"
           },
           {
             "type": "link",
             "label": "常见问题",
-            "href": "/docs/tutorial-others/faq",
+            "href": "/game.openkruise.io/docs/tutorial-others/faq",
             "docId": "tutorial-others/faq"
           }
         ],
-        "href": "/docs/category/其他"
+        "href": "/game.openkruise.io/docs/category/其他"
       }
     ]
   },
@@ -177,7 +177,7 @@
     "tutorial-extras/concept": {
       "id": "tutorial-extras/concept",
       "title": "设计理念与初衷",
-      "description": "开源OpenKruiseGame（OKG)的初衷",
+      "description": "concept",
       "sidebar": "tutorialSidebar"
     },
     "tutorial-extras/network-settings": {

@@ -1,103 +1,103 @@
 {
   "docusaurus-plugin-content-docs": {
     "default": {
-      "path": "/docs",
+      "path": "/game.openkruise.io/docs",
       "versions": [
         {
           "name": "current",
           "label": "Next",
           "isLast": true,
-          "path": "/docs",
+          "path": "/game.openkruise.io/docs",
           "mainDocId": "intro",
           "docs": [
             {
               "id": "intro",
-              "path": "/docs/intro",
+              "path": "/game.openkruise.io/docs/intro",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "tutorial-basics/deploy-gameserver",
-              "path": "/docs/tutorial-basics/deploy-gameserver",
+              "path": "/game.openkruise.io/docs/tutorial-basics/deploy-gameserver",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "tutorial-basics/hpa-gameserver",
-              "path": "/docs/tutorial-basics/hpa-gameserver",
+              "path": "/game.openkruise.io/docs/tutorial-basics/hpa-gameserver",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "tutorial-basics/install",
-              "path": "/docs/tutorial-basics/install",
+              "path": "/game.openkruise.io/docs/tutorial-basics/install",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "tutorial-basics/update-gameserver",
-              "path": "/docs/tutorial-basics/update-gameserver",
+              "path": "/game.openkruise.io/docs/tutorial-basics/update-gameserver",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "tutorial-examples/pve",
-              "path": "/docs/tutorial-examples/pve",
+              "path": "/game.openkruise.io/docs/tutorial-examples/pve",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "tutorial-examples/pvp",
-              "path": "/docs/tutorial-examples/pvp",
+              "path": "/game.openkruise.io/docs/tutorial-examples/pvp",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "tutorial-extras/concept",
-              "path": "/docs/tutorial-extras/concept",
+              "path": "/game.openkruise.io/docs/tutorial-extras/concept",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "tutorial-extras/network-settings",
-              "path": "/docs/tutorial-extras/network-settings",
+              "path": "/game.openkruise.io/docs/tutorial-extras/network-settings",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "tutorial-extras/order-settings",
-              "path": "/docs/tutorial-extras/order-settings",
+              "path": "/game.openkruise.io/docs/tutorial-extras/order-settings",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "tutorial-extras/service-quality",
-              "path": "/docs/tutorial-extras/service-quality",
+              "path": "/game.openkruise.io/docs/tutorial-extras/service-quality",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "tutorial-extras/update-settings",
-              "path": "/docs/tutorial-extras/update-settings",
+              "path": "/game.openkruise.io/docs/tutorial-extras/update-settings",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "tutorial-others/contributor",
-              "path": "/docs/tutorial-others/contributor",
+              "path": "/game.openkruise.io/docs/tutorial-others/contributor",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "tutorial-others/faq",
-              "path": "/docs/tutorial-others/faq",
+              "path": "/game.openkruise.io/docs/tutorial-others/faq",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "/category/快速开始",
-              "path": "/docs/category/快速开始",
+              "path": "/game.openkruise.io/docs/category/快速开始",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "/category/用户手册",
-              "path": "/docs/category/用户手册",
+              "path": "/game.openkruise.io/docs/category/用户手册",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "/category/最佳实践",
-              "path": "/docs/category/最佳实践",
+              "path": "/game.openkruise.io/docs/category/最佳实践",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "/category/其他",
-              "path": "/docs/category/其他",
+              "path": "/game.openkruise.io/docs/category/其他",
               "sidebar": "tutorialSidebar"
             }
           ],
@@ -105,7 +105,7 @@
           "sidebars": {
             "tutorialSidebar": {
               "link": {
-                "path": "/docs/intro",
+                "path": "/game.openkruise.io/docs/intro",
                 "label": "intro"
               }
             }

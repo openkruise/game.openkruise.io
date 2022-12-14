@@ -7,7 +7,7 @@ export default {
   "title": "OpenKruiseGame",
   "tagline": "一款面向多云的开源游戏服Kubernetes工作负载",
   "url": "https://game.openkruise.io",
-  "baseUrl": "/",
+  "baseUrl": "/game.openkruise.io/",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "favicon": "img/favicon.ico",

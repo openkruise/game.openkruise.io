@@ -9,8 +9,8 @@
           "badge": false,
           "noIndex": false,
           "className": "docs-version-current",
-          "path": "/docs",
-          "tagsPath": "/docs/tags",
+          "path": "/game.openkruise.io/docs",
+          "tagsPath": "/game.openkruise.io/docs/tags",
           "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs",
           "editUrlLocalized": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/i18n/en/docusaurus-plugin-content-docs/current",
           "isLast": true,
@@ -27,7 +27,7 @@
               "source": "@site/docs/intro.md",
               "sourceDirName": ".",
               "slug": "/intro",
-              "permalink": "/docs/intro",
+              "permalink": "/game.openkruise.io/docs/intro",
               "draft": false,
               "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/intro.md",
               "tags": [],
@@ -40,7 +40,7 @@
               "sidebar": "tutorialSidebar",
               "next": {
                 "title": "快速开始",
-                "permalink": "/docs/category/快速开始"
+                "permalink": "/game.openkruise.io/docs/category/快速开始"
               }
             },
             {
@@ -51,7 +51,7 @@
               "source": "@site/docs/tutorial-basics/deploy-gameserver.md",
               "sourceDirName": "tutorial-basics",
               "slug": "/tutorial-basics/deploy-gameserver",
-              "permalink": "/docs/tutorial-basics/deploy-gameserver",
+              "permalink": "/game.openkruise.io/docs/tutorial-basics/deploy-gameserver",
               "draft": false,
               "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/deploy-gameserver.md",
               "tags": [],
@@ -64,11 +64,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "安装OpenKruiseGame",
-                "permalink": "/docs/tutorial-basics/install"
+                "permalink": "/game.openkruise.io/docs/tutorial-basics/install"
               },
               "next": {
                 "title": "热更新游戏服",
-                "permalink": "/docs/tutorial-basics/update-gameserver"
+                "permalink": "/game.openkruise.io/docs/tutorial-basics/update-gameserver"
               }
             },
             {
@@ -79,7 +79,7 @@
               "source": "@site/docs/tutorial-basics/hpa-gameserver.md",
               "sourceDirName": "tutorial-basics",
               "slug": "/tutorial-basics/hpa-gameserver",
-              "permalink": "/docs/tutorial-basics/hpa-gameserver",
+              "permalink": "/game.openkruise.io/docs/tutorial-basics/hpa-gameserver",
               "draft": false,
               "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/hpa-gameserver.md",
               "tags": [],
@@ -92,11 +92,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "热更新游戏服",
-                "permalink": "/docs/tutorial-basics/update-gameserver"
+                "permalink": "/game.openkruise.io/docs/tutorial-basics/update-gameserver"
               },
               "next": {
                 "title": "用户手册",
-                "permalink": "/docs/category/用户手册"
+                "permalink": "/game.openkruise.io/docs/category/用户手册"
               }
             },
             {
@@ -107,7 +107,7 @@
               "source": "@site/docs/tutorial-basics/install.md",
               "sourceDirName": "tutorial-basics",
               "slug": "/tutorial-basics/install",
-              "permalink": "/docs/tutorial-basics/install",
+              "permalink": "/game.openkruise.io/docs/tutorial-basics/install",
               "draft": false,
               "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/install.md",
               "tags": [],
@@ -120,11 +120,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "快速开始",
-                "permalink": "/docs/category/快速开始"
+                "permalink": "/game.openkruise.io/docs/category/快速开始"
               },
               "next": {
                 "title": "部署一个游戏服",
-                "permalink": "/docs/tutorial-basics/deploy-gameserver"
+                "permalink": "/game.openkruise.io/docs/tutorial-basics/deploy-gameserver"
               }
             },
             {
@@ -135,7 +135,7 @@
               "source": "@site/docs/tutorial-basics/update-gameserver.md",
               "sourceDirName": "tutorial-basics",
               "slug": "/tutorial-basics/update-gameserver",
-              "permalink": "/docs/tutorial-basics/update-gameserver",
+              "permalink": "/game.openkruise.io/docs/tutorial-basics/update-gameserver",
               "draft": false,
               "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/update-gameserver.md",
               "tags": [],
@@ -148,11 +148,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "部署一个游戏服",
-                "permalink": "/docs/tutorial-basics/deploy-gameserver"
+                "permalink": "/game.openkruise.io/docs/tutorial-basics/deploy-gameserver"
               },
               "next": {
                 "title": "弹性伸缩游戏服",
-                "permalink": "/docs/tutorial-basics/hpa-gameserver"
+                "permalink": "/game.openkruise.io/docs/tutorial-basics/hpa-gameserver"
               }
             },
             {
@@ -163,7 +163,7 @@
               "source": "@site/docs/tutorial-examples/pve.md",
               "sourceDirName": "tutorial-examples",
               "slug": "/tutorial-examples/pve",
-              "permalink": "/docs/tutorial-examples/pve",
+              "permalink": "/game.openkruise.io/docs/tutorial-examples/pve",
               "draft": false,
               "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-examples/pve.md",
               "tags": [],
@@ -176,11 +176,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "PvP游戏最佳实践",
-                "permalink": "/docs/tutorial-examples/pvp"
+                "permalink": "/game.openkruise.io/docs/tutorial-examples/pvp"
               },
               "next": {
                 "title": "其他",
-                "permalink": "/docs/category/其他"
+                "permalink": "/game.openkruise.io/docs/category/其他"
               }
             },
             {
@@ -191,7 +191,7 @@
               "source": "@site/docs/tutorial-examples/pvp.md",
               "sourceDirName": "tutorial-examples",
               "slug": "/tutorial-examples/pvp",
-              "permalink": "/docs/tutorial-examples/pvp",
+              "permalink": "/game.openkruise.io/docs/tutorial-examples/pvp",
               "draft": false,
               "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-examples/pvp.md",
               "tags": [],
@@ -204,22 +204,22 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "最佳实践",
-                "permalink": "/docs/category/最佳实践"
+                "permalink": "/game.openkruise.io/docs/category/最佳实践"
               },
               "next": {
                 "title": "PvE游戏最佳实践",
-                "permalink": "/docs/tutorial-examples/pve"
+                "permalink": "/game.openkruise.io/docs/tutorial-examples/pve"
               }
             },
             {
               "unversionedId": "tutorial-extras/concept",
               "id": "tutorial-extras/concept",
               "title": "设计理念与初衷",
-              "description": "开源OpenKruiseGame（OKG)的初衷",
+              "description": "concept",
               "source": "@site/docs/tutorial-extras/concept.md",
               "sourceDirName": "tutorial-extras",
               "slug": "/tutorial-extras/concept",
-              "permalink": "/docs/tutorial-extras/concept",
+              "permalink": "/game.openkruise.io/docs/tutorial-extras/concept",
               "draft": false,
               "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-extras/concept.md",
               "tags": [],
@@ -232,11 +232,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "用户手册",
-                "permalink": "/docs/category/用户手册"
+                "permalink": "/game.openkruise.io/docs/category/用户手册"
               },
               "next": {
                 "title": "热更新策略设置",
-                "permalink": "/docs/tutorial-extras/update-settings"
+                "permalink": "/game.openkruise.io/docs/tutorial-extras/update-settings"
               }
             },
             {
@@ -247,7 +247,7 @@
               "source": "@site/docs/tutorial-extras/network-settings.md",
               "sourceDirName": "tutorial-extras",
               "slug": "/tutorial-extras/network-settings",
-              "permalink": "/docs/tutorial-extras/network-settings",
+              "permalink": "/game.openkruise.io/docs/tutorial-extras/network-settings",
               "draft": false,
               "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-extras/network-settings.md",
               "tags": [],
@@ -260,11 +260,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "启动顺序设置",
-                "permalink": "/docs/tutorial-extras/order-settings"
+                "permalink": "/game.openkruise.io/docs/tutorial-extras/order-settings"
               },
               "next": {
                 "title": "服务质量设置",
-                "permalink": "/docs/tutorial-extras/service-quality"
+                "permalink": "/game.openkruise.io/docs/tutorial-extras/service-quality"
               }
             },
             {
@@ -275,7 +275,7 @@
               "source": "@site/docs/tutorial-extras/order-settings.md",
               "sourceDirName": "tutorial-extras",
               "slug": "/tutorial-extras/order-settings",
-              "permalink": "/docs/tutorial-extras/order-settings",
+              "permalink": "/game.openkruise.io/docs/tutorial-extras/order-settings",
               "draft": false,
               "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-extras/order-settings.md",
               "tags": [],
@@ -288,11 +288,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "热更新策略设置",
-                "permalink": "/docs/tutorial-extras/update-settings"
+                "permalink": "/game.openkruise.io/docs/tutorial-extras/update-settings"
               },
               "next": {
                 "title": "网络模型设置",
-                "permalink": "/docs/tutorial-extras/network-settings"
+                "permalink": "/game.openkruise.io/docs/tutorial-extras/network-settings"
               }
             },
             {
@@ -303,7 +303,7 @@
               "source": "@site/docs/tutorial-extras/service-quality.md",
               "sourceDirName": "tutorial-extras",
               "slug": "/tutorial-extras/service-quality",
-              "permalink": "/docs/tutorial-extras/service-quality",
+              "permalink": "/game.openkruise.io/docs/tutorial-extras/service-quality",
               "draft": false,
               "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-extras/service-quality.md",
               "tags": [],
@@ -316,11 +316,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "网络模型设置",
-                "permalink": "/docs/tutorial-extras/network-settings"
+                "permalink": "/game.openkruise.io/docs/tutorial-extras/network-settings"
               },
               "next": {
                 "title": "最佳实践",
-                "permalink": "/docs/category/最佳实践"
+                "permalink": "/game.openkruise.io/docs/category/最佳实践"
               }
             },
             {
@@ -331,7 +331,7 @@
               "source": "@site/docs/tutorial-extras/update-settings.md",
               "sourceDirName": "tutorial-extras",
               "slug": "/tutorial-extras/update-settings",
-              "permalink": "/docs/tutorial-extras/update-settings",
+              "permalink": "/game.openkruise.io/docs/tutorial-extras/update-settings",
               "draft": false,
               "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-extras/update-settings.md",
               "tags": [],
@@ -344,11 +344,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "设计理念与初衷",
-                "permalink": "/docs/tutorial-extras/concept"
+                "permalink": "/game.openkruise.io/docs/tutorial-extras/concept"
               },
               "next": {
                 "title": "启动顺序设置",
-                "permalink": "/docs/tutorial-extras/order-settings"
+                "permalink": "/game.openkruise.io/docs/tutorial-extras/order-settings"
               }
             },
             {
@@ -359,7 +359,7 @@
               "source": "@site/docs/tutorial-others/contributor.md",
               "sourceDirName": "tutorial-others",
               "slug": "/tutorial-others/contributor",
-              "permalink": "/docs/tutorial-others/contributor",
+              "permalink": "/game.openkruise.io/docs/tutorial-others/contributor",
               "draft": false,
               "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-others/contributor.md",
               "tags": [],
@@ -372,11 +372,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "其他",
-                "permalink": "/docs/category/其他"
+                "permalink": "/game.openkruise.io/docs/category/其他"
               },
               "next": {
                 "title": "常见问题",
-                "permalink": "/docs/tutorial-others/faq"
+                "permalink": "/game.openkruise.io/docs/tutorial-others/faq"
               }
             },
             {
@@ -387,7 +387,7 @@
               "source": "@site/docs/tutorial-others/faq.md",
               "sourceDirName": "tutorial-others",
               "slug": "/tutorial-others/faq",
-              "permalink": "/docs/tutorial-others/faq",
+              "permalink": "/game.openkruise.io/docs/tutorial-others/faq",
               "draft": false,
               "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-others/faq.md",
               "tags": [],
@@ -400,7 +400,7 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "如何贡献代码",
-                "permalink": "/docs/tutorial-others/contributor"
+                "permalink": "/game.openkruise.io/docs/tutorial-others/contributor"
               }
             }
           ],
@@ -438,7 +438,7 @@
                   "type": "generated-index",
                   "description": "5 minutes to learn the most important Docusaurus concepts.",
                   "slug": "/category/快速开始",
-                  "permalink": "/docs/category/快速开始"
+                  "permalink": "/game.openkruise.io/docs/category/快速开始"
                 }
               },
               {
@@ -471,7 +471,7 @@
                 "link": {
                   "type": "generated-index",
                   "slug": "/category/用户手册",
-                  "permalink": "/docs/category/用户手册"
+                  "permalink": "/game.openkruise.io/docs/category/用户手册"
                 }
               },
               {
@@ -493,7 +493,7 @@
                   "type": "generated-index",
                   "description": "5 minutes to learn the most important Docusaurus concepts.",
                   "slug": "/category/最佳实践",
-                  "permalink": "/docs/category/最佳实践"
+                  "permalink": "/game.openkruise.io/docs/category/最佳实践"
                 }
               },
               {
@@ -515,7 +515,7 @@
                   "type": "generated-index",
                   "description": "5 minutes to learn the most important Docusaurus concepts.",
                   "slug": "/category/其他",
-                  "permalink": "/docs/category/其他"
+                  "permalink": "/game.openkruise.io/docs/category/其他"
                 }
               }
             ]
@@ -531,7 +531,7 @@
         {
           "id": "welcome",
           "metadata": {
-            "permalink": "/blog/welcome",
+            "permalink": "/game.openkruise.io/blog/welcome",
             "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2021-08-26-welcome/index.md",
             "source": "@site/blog/2021-08-26-welcome/index.md",
             "title": "Welcome",
@@ -541,15 +541,15 @@
             "tags": [
               {
                 "label": "facebook",
-                "permalink": "/blog/tags/facebook"
+                "permalink": "/game.openkruise.io/blog/tags/facebook"
               },
               {
                 "label": "hello",
-                "permalink": "/blog/tags/hello"
+                "permalink": "/game.openkruise.io/blog/tags/hello"
               },
               {
                 "label": "docusaurus",
-                "permalink": "/blog/tags/docusaurus"
+                "permalink": "/game.openkruise.io/blog/tags/docusaurus"
               }
             ],
             "readingTime": 0.405,
@@ -585,7 +585,7 @@
             },
             "nextItem": {
               "title": "MDX Blog Post",
-              "permalink": "/blog/mdx-blog-post"
+              "permalink": "/game.openkruise.io/blog/mdx-blog-post"
             }
           },
           "content": "[Docusaurus blogging features](https://docusaurus.io/docs/blog) are powered by the [blog plugin](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog).\n\nSimply add Markdown files (or folders) to the `blog` directory.\n\nRegular blog authors can be added to `authors.yml`.\n\nThe blog post date can be extracted from filenames, such as:\n\n- `2019-05-30-welcome.md`\n- `2019-05-30-welcome/index.md`\n\nA blog post folder can be convenient to co-locate blog post images:\n\n![Docusaurus Plushie](./docusaurus-plushie-banner.jpeg)\n\nThe blog supports tags as well!\n\n**And if you don't want a blog**: just delete this directory, and use `blog: false` in your Docusaurus config."
@@ -593,7 +593,7 @@
         {
           "id": "mdx-blog-post",
           "metadata": {
-            "permalink": "/blog/mdx-blog-post",
+            "permalink": "/game.openkruise.io/blog/mdx-blog-post",
             "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2021-08-01-mdx-blog-post.mdx",
             "source": "@site/blog/2021-08-01-mdx-blog-post.mdx",
             "title": "MDX Blog Post",
@@ -603,7 +603,7 @@
             "tags": [
               {
                 "label": "docusaurus",
-                "permalink": "/blog/tags/docusaurus"
+                "permalink": "/game.openkruise.io/blog/tags/docusaurus"
               }
             ],
             "readingTime": 0.175,
@@ -629,11 +629,11 @@
             },
             "prevItem": {
               "title": "Welcome",
-              "permalink": "/blog/welcome"
+              "permalink": "/game.openkruise.io/blog/welcome"
             },
             "nextItem": {
               "title": "Long Blog Post",
-              "permalink": "/blog/long-blog-post"
+              "permalink": "/game.openkruise.io/blog/long-blog-post"
             }
           },
           "content": "Blog posts support [Docusaurus Markdown features](https://docusaurus.io/docs/markdown-features), such as [MDX](https://mdxjs.com/).\n\n:::tip\n\nUse the power of React to create interactive blog posts.\n\n```js\n<button onClick={() => alert('button clicked!')}>Click me!</button>\n```\n\n<button onClick={() => alert('button clicked!')}>Click me!</button>\n\n:::"
@@ -641,7 +641,7 @@
         {
           "id": "long-blog-post",
           "metadata": {
-            "permalink": "/blog/long-blog-post",
+            "permalink": "/game.openkruise.io/blog/long-blog-post",
             "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2019-05-29-long-blog-post.md",
             "source": "@site/blog/2019-05-29-long-blog-post.md",
             "title": "Long Blog Post",
@@ -651,11 +651,11 @@
             "tags": [
               {
                 "label": "hello",
-                "permalink": "/blog/tags/hello"
+                "permalink": "/game.openkruise.io/blog/tags/hello"
               },
               {
                 "label": "docusaurus",
-                "permalink": "/blog/tags/docusaurus"
+                "permalink": "/game.openkruise.io/blog/tags/docusaurus"
               }
             ],
             "readingTime": 2.05,
@@ -680,11 +680,11 @@
             },
             "prevItem": {
               "title": "MDX Blog Post",
-              "permalink": "/blog/mdx-blog-post"
+              "permalink": "/game.openkruise.io/blog/mdx-blog-post"
             },
             "nextItem": {
               "title": "First Blog Post",
-              "permalink": "/blog/first-blog-post"
+              "permalink": "/game.openkruise.io/blog/first-blog-post"
             }
           },
           "content": "This is the summary of a very long blog post,\n\nUse a `<!--` `truncate` `-->` comment to limit blog post size in the list view.\n\n<!--truncate-->\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet"
@@ -692,7 +692,7 @@
         {
           "id": "first-blog-post",
           "metadata": {
-            "permalink": "/blog/first-blog-post",
+            "permalink": "/game.openkruise.io/blog/first-blog-post",
             "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2019-05-28-first-blog-post.md",
             "source": "@site/blog/2019-05-28-first-blog-post.md",
             "title": "First Blog Post",
@@ -702,11 +702,11 @@
             "tags": [
               {
                 "label": "hola",
-                "permalink": "/blog/tags/hola"
+                "permalink": "/game.openkruise.io/blog/tags/hola"
               },
               {
                 "label": "docusaurus",
-                "permalink": "/blog/tags/docusaurus"
+                "permalink": "/game.openkruise.io/blog/tags/docusaurus"
               }
             ],
             "readingTime": 0.12,
@@ -737,7 +737,7 @@
             },
             "prevItem": {
               "title": "Long Blog Post",
-              "permalink": "/blog/long-blog-post"
+              "permalink": "/game.openkruise.io/blog/long-blog-post"
             }
           },
           "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet"
@@ -752,7 +752,7 @@
             "first-blog-post"
           ],
           "metadata": {
-            "permalink": "/blog",
+            "permalink": "/game.openkruise.io/blog",
             "page": 1,
             "postsPerPage": 10,
             "totalPages": 1,
@@ -763,19 +763,19 @@
         }
       ],
       "blogTags": {
-        "/blog/tags/facebook": {
+        "/game.openkruise.io/blog/tags/facebook": {
           "label": "facebook",
           "items": [
             "welcome"
           ],
-          "permalink": "/blog/tags/facebook",
+          "permalink": "/game.openkruise.io/blog/tags/facebook",
           "pages": [
             {
               "items": [
                 "welcome"
               ],
               "metadata": {
-                "permalink": "/blog/tags/facebook",
+                "permalink": "/game.openkruise.io/blog/tags/facebook",
                 "page": 1,
                 "postsPerPage": 10,
                 "totalPages": 1,
@@ -786,13 +786,13 @@
             }
           ]
         },
-        "/blog/tags/hello": {
+        "/game.openkruise.io/blog/tags/hello": {
           "label": "hello",
           "items": [
             "welcome",
             "long-blog-post"
           ],
-          "permalink": "/blog/tags/hello",
+          "permalink": "/game.openkruise.io/blog/tags/hello",
           "pages": [
             {
               "items": [
@@ -800,7 +800,7 @@
                 "long-blog-post"
               ],
               "metadata": {
-                "permalink": "/blog/tags/hello",
+                "permalink": "/game.openkruise.io/blog/tags/hello",
                 "page": 1,
                 "postsPerPage": 10,
                 "totalPages": 1,
@@ -811,7 +811,7 @@
             }
           ]
         },
-        "/blog/tags/docusaurus": {
+        "/game.openkruise.io/blog/tags/docusaurus": {
           "label": "docusaurus",
           "items": [
             "welcome",
@@ -819,7 +819,7 @@
             "long-blog-post",
             "first-blog-post"
           ],
-          "permalink": "/blog/tags/docusaurus",
+          "permalink": "/game.openkruise.io/blog/tags/docusaurus",
           "pages": [
             {
               "items": [
@@ -829,7 +829,7 @@
                 "first-blog-post"
               ],
               "metadata": {
-                "permalink": "/blog/tags/docusaurus",
+                "permalink": "/game.openkruise.io/blog/tags/docusaurus",
                 "page": 1,
                 "postsPerPage": 10,
                 "totalPages": 1,
@@ -840,19 +840,19 @@
             }
           ]
         },
-        "/blog/tags/hola": {
+        "/game.openkruise.io/blog/tags/hola": {
           "label": "hola",
           "items": [
             "first-blog-post"
           ],
-          "permalink": "/blog/tags/hola",
+          "permalink": "/game.openkruise.io/blog/tags/hola",
           "pages": [
             {
               "items": [
                 "first-blog-post"
               ],
               "metadata": {
-                "permalink": "/blog/tags/hola",
+                "permalink": "/game.openkruise.io/blog/tags/hola",
                 "page": 1,
                 "postsPerPage": 10,
                 "totalPages": 1,
@@ -864,19 +864,19 @@
           ]
         }
       },
-      "blogTagsListPath": "/blog/tags"
+      "blogTagsListPath": "/game.openkruise.io/blog/tags"
     }
   },
   "docusaurus-plugin-content-pages": {
     "default": [
       {
         "type": "jsx",
-        "permalink": "/",
+        "permalink": "/game.openkruise.io/",
         "source": "@site/src/pages/index.js"
       },
       {
         "type": "mdx",
-        "permalink": "/markdown-page",
+        "permalink": "/game.openkruise.io/markdown-page",
         "source": "@site/src/pages/markdown-page.md",
         "title": "Markdown page example",
         "description": "You don't need React to write simple standalone pages.",

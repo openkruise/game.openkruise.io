@@ -1,0 +1,16 @@
+{
+  "title": "其他",
+  "description": "5 minutes to learn the most important Docusaurus concepts.",
+  "slug": "/category/其他",
+  "permalink": "/game.openkruise.io/docs/category/其他",
+  "navigation": {
+    "previous": {
+      "title": "PvE游戏最佳实践",
+      "permalink": "/game.openkruise.io/docs/tutorial-examples/pve"
+    },
+    "next": {
+      "title": "如何贡献代码",
+      "permalink": "/game.openkruise.io/docs/tutorial-others/contributor"
+    }
+  }
+}

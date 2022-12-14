@@ -3,182 +3,182 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/blog',
-    component: ComponentCreator('/blog', '88e'),
+    path: '/game.openkruise.io/blog',
+    component: ComponentCreator('/game.openkruise.io/blog', '9b5'),
     exact: true
   },
   {
-    path: '/blog/archive',
-    component: ComponentCreator('/blog/archive', '3b0'),
+    path: '/game.openkruise.io/blog/archive',
+    component: ComponentCreator('/game.openkruise.io/blog/archive', 'ac8'),
     exact: true
   },
   {
-    path: '/blog/first-blog-post',
-    component: ComponentCreator('/blog/first-blog-post', '882'),
+    path: '/game.openkruise.io/blog/first-blog-post',
+    component: ComponentCreator('/game.openkruise.io/blog/first-blog-post', '6f0'),
     exact: true
   },
   {
-    path: '/blog/long-blog-post',
-    component: ComponentCreator('/blog/long-blog-post', 'e5b'),
+    path: '/game.openkruise.io/blog/long-blog-post',
+    component: ComponentCreator('/game.openkruise.io/blog/long-blog-post', '4d2'),
     exact: true
   },
   {
-    path: '/blog/mdx-blog-post',
-    component: ComponentCreator('/blog/mdx-blog-post', 'b11'),
+    path: '/game.openkruise.io/blog/mdx-blog-post',
+    component: ComponentCreator('/game.openkruise.io/blog/mdx-blog-post', '494'),
     exact: true
   },
   {
-    path: '/blog/tags',
-    component: ComponentCreator('/blog/tags', 'cd9'),
+    path: '/game.openkruise.io/blog/tags',
+    component: ComponentCreator('/game.openkruise.io/blog/tags', 'dc3'),
     exact: true
   },
   {
-    path: '/blog/tags/docusaurus',
-    component: ComponentCreator('/blog/tags/docusaurus', '670'),
+    path: '/game.openkruise.io/blog/tags/docusaurus',
+    component: ComponentCreator('/game.openkruise.io/blog/tags/docusaurus', 'c75'),
     exact: true
   },
   {
-    path: '/blog/tags/facebook',
-    component: ComponentCreator('/blog/tags/facebook', '2ff'),
+    path: '/game.openkruise.io/blog/tags/facebook',
+    component: ComponentCreator('/game.openkruise.io/blog/tags/facebook', '882'),
     exact: true
   },
   {
-    path: '/blog/tags/hello',
-    component: ComponentCreator('/blog/tags/hello', '200'),
+    path: '/game.openkruise.io/blog/tags/hello',
+    component: ComponentCreator('/game.openkruise.io/blog/tags/hello', 'e78'),
     exact: true
   },
   {
-    path: '/blog/tags/hola',
-    component: ComponentCreator('/blog/tags/hola', '77d'),
+    path: '/game.openkruise.io/blog/tags/hola',
+    component: ComponentCreator('/game.openkruise.io/blog/tags/hola', 'e1e'),
     exact: true
   },
   {
-    path: '/blog/welcome',
-    component: ComponentCreator('/blog/welcome', 'ad6'),
+    path: '/game.openkruise.io/blog/welcome',
+    component: ComponentCreator('/game.openkruise.io/blog/welcome', 'f32'),
     exact: true
   },
   {
-    path: '/markdown-page',
-    component: ComponentCreator('/markdown-page', '366'),
+    path: '/game.openkruise.io/markdown-page',
+    component: ComponentCreator('/game.openkruise.io/markdown-page', '82e'),
     exact: true
   },
   {
-    path: '/docs',
-    component: ComponentCreator('/docs', '956'),
+    path: '/game.openkruise.io/docs',
+    component: ComponentCreator('/game.openkruise.io/docs', '494'),
     routes: [
       {
-        path: '/docs/category/快速开始',
-        component: ComponentCreator('/docs/category/快速开始', 'a37'),
+        path: '/game.openkruise.io/docs/category/快速开始',
+        component: ComponentCreator('/game.openkruise.io/docs/category/快速开始', '35f'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/category/其他',
-        component: ComponentCreator('/docs/category/其他', 'abb'),
+        path: '/game.openkruise.io/docs/category/其他',
+        component: ComponentCreator('/game.openkruise.io/docs/category/其他', 'c95'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/category/用户手册',
-        component: ComponentCreator('/docs/category/用户手册', '1b7'),
+        path: '/game.openkruise.io/docs/category/用户手册',
+        component: ComponentCreator('/game.openkruise.io/docs/category/用户手册', '0b0'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/category/最佳实践',
-        component: ComponentCreator('/docs/category/最佳实践', 'f50'),
+        path: '/game.openkruise.io/docs/category/最佳实践',
+        component: ComponentCreator('/game.openkruise.io/docs/category/最佳实践', '024'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/intro',
-        component: ComponentCreator('/docs/intro', 'aed'),
+        path: '/game.openkruise.io/docs/intro',
+        component: ComponentCreator('/game.openkruise.io/docs/intro', 'cd6'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/tutorial-basics/deploy-gameserver',
-        component: ComponentCreator('/docs/tutorial-basics/deploy-gameserver', '0ff'),
+        path: '/game.openkruise.io/docs/tutorial-basics/deploy-gameserver',
+        component: ComponentCreator('/game.openkruise.io/docs/tutorial-basics/deploy-gameserver', '7b7'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/tutorial-basics/hpa-gameserver',
-        component: ComponentCreator('/docs/tutorial-basics/hpa-gameserver', 'c8e'),
+        path: '/game.openkruise.io/docs/tutorial-basics/hpa-gameserver',
+        component: ComponentCreator('/game.openkruise.io/docs/tutorial-basics/hpa-gameserver', '006'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/tutorial-basics/install',
-        component: ComponentCreator('/docs/tutorial-basics/install', 'b44'),
+        path: '/game.openkruise.io/docs/tutorial-basics/install',
+        component: ComponentCreator('/game.openkruise.io/docs/tutorial-basics/install', 'ce8'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/tutorial-basics/update-gameserver',
-        component: ComponentCreator('/docs/tutorial-basics/update-gameserver', 'ef0'),
+        path: '/game.openkruise.io/docs/tutorial-basics/update-gameserver',
+        component: ComponentCreator('/game.openkruise.io/docs/tutorial-basics/update-gameserver', '326'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/tutorial-examples/pve',
-        component: ComponentCreator('/docs/tutorial-examples/pve', '3ae'),
+        path: '/game.openkruise.io/docs/tutorial-examples/pve',
+        component: ComponentCreator('/game.openkruise.io/docs/tutorial-examples/pve', '8b1'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/tutorial-examples/pvp',
-        component: ComponentCreator('/docs/tutorial-examples/pvp', '0d6'),
+        path: '/game.openkruise.io/docs/tutorial-examples/pvp',
+        component: ComponentCreator('/game.openkruise.io/docs/tutorial-examples/pvp', '784'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/tutorial-extras/concept',
-        component: ComponentCreator('/docs/tutorial-extras/concept', '510'),
+        path: '/game.openkruise.io/docs/tutorial-extras/concept',
+        component: ComponentCreator('/game.openkruise.io/docs/tutorial-extras/concept', '5d4'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/tutorial-extras/network-settings',
-        component: ComponentCreator('/docs/tutorial-extras/network-settings', '12f'),
+        path: '/game.openkruise.io/docs/tutorial-extras/network-settings',
+        component: ComponentCreator('/game.openkruise.io/docs/tutorial-extras/network-settings', '884'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/tutorial-extras/order-settings',
-        component: ComponentCreator('/docs/tutorial-extras/order-settings', '3ad'),
+        path: '/game.openkruise.io/docs/tutorial-extras/order-settings',
+        component: ComponentCreator('/game.openkruise.io/docs/tutorial-extras/order-settings', '9fe'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/tutorial-extras/service-quality',
-        component: ComponentCreator('/docs/tutorial-extras/service-quality', 'c98'),
+        path: '/game.openkruise.io/docs/tutorial-extras/service-quality',
+        component: ComponentCreator('/game.openkruise.io/docs/tutorial-extras/service-quality', '8d8'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/tutorial-extras/update-settings',
-        component: ComponentCreator('/docs/tutorial-extras/update-settings', 'a60'),
+        path: '/game.openkruise.io/docs/tutorial-extras/update-settings',
+        component: ComponentCreator('/game.openkruise.io/docs/tutorial-extras/update-settings', '3a0'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/tutorial-others/contributor',
-        component: ComponentCreator('/docs/tutorial-others/contributor', 'bc7'),
+        path: '/game.openkruise.io/docs/tutorial-others/contributor',
+        component: ComponentCreator('/game.openkruise.io/docs/tutorial-others/contributor', '6fd'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/tutorial-others/faq',
-        component: ComponentCreator('/docs/tutorial-others/faq', '338'),
+        path: '/game.openkruise.io/docs/tutorial-others/faq',
+        component: ComponentCreator('/game.openkruise.io/docs/tutorial-others/faq', 'ae8'),
         exact: true,
         sidebar: "tutorialSidebar"
       }
     ]
   },
   {
-    path: '/',
-    component: ComponentCreator('/', '123'),
+    path: '/game.openkruise.io/',
+    component: ComponentCreator('/game.openkruise.io/', '2b2'),
     exact: true
   },
   {

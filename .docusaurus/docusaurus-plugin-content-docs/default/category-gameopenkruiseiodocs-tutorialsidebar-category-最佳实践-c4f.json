@@ -1,0 +1,16 @@
+{
+  "title": "最佳实践",
+  "description": "5 minutes to learn the most important Docusaurus concepts.",
+  "slug": "/category/最佳实践",
+  "permalink": "/game.openkruise.io/docs/category/最佳实践",
+  "navigation": {
+    "previous": {
+      "title": "服务质量设置",
+      "permalink": "/game.openkruise.io/docs/tutorial-extras/service-quality"
+    },
+    "next": {
+      "title": "PvP游戏最佳实践",
+      "permalink": "/game.openkruise.io/docs/tutorial-examples/pvp"
+    }
+  }
+}

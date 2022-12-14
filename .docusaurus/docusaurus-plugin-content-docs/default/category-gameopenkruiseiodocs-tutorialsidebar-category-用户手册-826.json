@@ -1,0 +1,15 @@
+{
+  "title": "用户手册",
+  "slug": "/category/用户手册",
+  "permalink": "/game.openkruise.io/docs/category/用户手册",
+  "navigation": {
+    "previous": {
+      "title": "弹性伸缩游戏服",
+      "permalink": "/game.openkruise.io/docs/tutorial-basics/hpa-gameserver"
+    },
+    "next": {
+      "title": "设计理念与初衷",
+      "permalink": "/game.openkruise.io/docs/tutorial-extras/concept"
+    }
+  }
+}

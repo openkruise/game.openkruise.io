@@ -6,7 +6,7 @@
   "source": "@site/docs/tutorial-others/faq.md",
   "sourceDirName": "tutorial-others",
   "slug": "/tutorial-others/faq",
-  "permalink": "/docs/tutorial-others/faq",
+  "permalink": "/game.openkruise.io/docs/tutorial-others/faq",
   "draft": false,
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-others/faq.md",
   "tags": [],
@@ -19,6 +19,6 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "如何贡献代码",
-    "permalink": "/docs/tutorial-others/contributor"
+    "permalink": "/game.openkruise.io/docs/tutorial-others/contributor"
   }
 }
